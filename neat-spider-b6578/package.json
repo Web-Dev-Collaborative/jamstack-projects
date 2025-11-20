@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "@plasmicapp/loader": "0.0.56",
+    "@plasmicapp/loader": "0.0.59",
     "@types/react": "^17.0.9",
     "gatsby": "^3.6.2",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
