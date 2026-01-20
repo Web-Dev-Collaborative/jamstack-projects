@@ -58,7 +58,7 @@
     "@fortawesome/free-brands-svg-icons": "5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
-    "babel-eslint": "10.1.0",
+    "@babel/eslint-parser": "7.11.0",
     "bootstrap": "4.4.1",
     "font-awesome": "4.7.0",
     "modern-normalize": "0.6.0",
